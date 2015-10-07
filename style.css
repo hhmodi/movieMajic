@@ -1,0 +1,128 @@
+﻿body {
+        background-image: url("tony.jpg");
+        background-repeat: no-repeat;
+background-size: 100% 8%;
+ background-color: grey;
+}
+
+h1 {
+    color: Green;
+    margin-left: 20px;
+}
+h2   {color:blue;
+      text-align:center;}
+h3   {color:red;}
+h4   {color:red;}
+p    {color:white;
+      font-family: "Times New Roman", Times, serif;
+      font-style: italic;
+      font-size: 20px;
+      font-weight: normal;}
+
+
+a:link {
+    color: #FF0000;
+}
+a:visited {
+    color: #00FF00;
+}
+a:hover {
+    color: #FF00FF;
+}
+a:active {
+    color: #0000FF;
+}
+
+.div1 {
+    border: 1px solid black;
+    height:150px;
+    width:180px;
+    background:url(antman.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.div2 {
+    border: 1px solid black;
+    height:150px;
+    width:180px;
+    background:url(impossible.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.div3 {
+    border: 1px solid black;
+    height:150px;
+    width:180px;
+    background:url(fantastic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div4 {
+    border: 1px solid black;
+    height:150px;
+    width:180px;
+    background:url(bahubali.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div10 {
+    border: 1px solid black;
+    height:150px;
+    width:180px;
+    background:url(movie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h5{
+color:green;
+      text-align:center;
+}
+h6{
+color:yellow;
+      text-align:right;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+.div5{
+background-color:pink
+width: 300px;
+    padding: 12px;
+    border: 12px solid navy;
+    margin: 12px;
+}
+.div6{
+background-color:pink
+width: 300px;
+    padding: 14px;
+    border: 17px solid pink;
+    margin: 20px;
+}
+.div7{
+background-color:pink
+width: 300px;
+    padding: 18px;
+    border: 18px solid black;
+    margin: 18px;
+}
+.div8{
+background-color:pink
+width: 300px;
+    padding: 25px;
+    border: 25px solid green;
+    margin: 25px;
+}
+.div9{
+background-color:pink
+width: 300px;
+    padding: 20px;
+    border: 20px solid yellow;
+    margin: 20px;
+}
